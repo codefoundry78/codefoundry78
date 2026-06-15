@@ -13,54 +13,11 @@ Senior Full Stack & DevOps Engineer | AI Solutions Developer with 15+ years of e
 
 ### 🛠️ Tech Stack
 
-#### Frontend
-
-* React.js
-* Next.js
-* TypeScript
-* JavaScript (ES6+)
-* Tailwind CSS
-* Material UI
-
-#### Backend
-
-* Node.js
-* Express.js
-* NestJS
-* Python
-* FastAPI
-* Django
-* Flask
-* GraphQL
-* REST APIs
-
-#### AI & Automation
-
-* OpenAI API
-* LangChain
-* RAG Systems
-* Vector Databases
-* AI Agents
-* Prompt Engineering
-
-#### DevOps & Cloud
-
-* AWS
-* Docker
-* Kubernetes
-* Terraform
-* GitHub Actions
-* Jenkins
-* Linux
-* Nginx
-* CI/CD Pipelines
-
-#### Databases
-
-* MongoDB
-* PostgreSQL
-* MySQL
-* Redis
+**Frontend:** React.js, Next.js, TypeScript, JavaScript (ES6+), Tailwind CSS, Material UI  
+**Backend:** Node.js, Express.js, NestJS, Python, FastAPI, Django, Flask, GraphQL, REST APIs  
+**AI & Automation:** OpenAI API, LangChain, RAG Systems, Vector Databases, AI Agents, Prompt Engineering  
+**DevOps & Cloud:** AWS, Docker, Kubernetes, Terraform, GitHub Actions, Jenkins, Linux, Nginx, CI/CD Pipelines  
+**Databases:** MongoDB, PostgreSQL, MySQL, Redis  
 
 ### 🔥 Featured Projects
 
